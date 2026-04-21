@@ -1,5 +1,8 @@
 # Star, Galaxy & Quasar Classifier
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rishabhjha2905-crypto/sdss-star-classifier/blob/main/sdss_classifier.ipynb)
+
+
 A machine learning project that classifies astronomical objects from the [Sloan Digital Sky Survey (SDSS)](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17) dataset into three categories: stars, galaxies, and quasars (QSOs).
 
 ## Overview
@@ -40,7 +43,6 @@ sdss-star-classifier/
 ├── star_classification.csv # Dataset
 └── README.md
 ```
-
 ## How to Run
 
 1. Clone the repo
